@@ -109,7 +109,7 @@ O resultado deve possuir duas colunas:
 
 ## 100% :heavy_check_mark:
 
-![Project-all-for-one](https://github.com/jonnoliveira/trybe-project-18-all-for-one/blob/main/images/all-for-one-grade.png)
+![Project-one-for-all](https://github.com/jonnoliveira/trybe-project-19-one-for-all/blob/main/images/one-for-all-grade.png)
 
 </details> 
  
